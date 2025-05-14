@@ -9,7 +9,7 @@ All of these were built using pure C++, with a strong emphasis on readability, s
 
 ## 🧩 Projects
 
-### 🔹 [CPP Module 00](https://github.com/tu_usuario/cpp00)  
+### 🔹 [CPP Module 00](https://github.com/aguinea1/CPP00)  
 The first module in  C++.  
 It introduces essential concepts such as classes, private attributes, public methods, object instantiation, and basic stream handling.  
 Perfect for understanding the shift from C to C++ through a more structured and object-oriented approach.
